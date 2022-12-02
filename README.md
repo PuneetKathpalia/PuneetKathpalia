@@ -14,13 +14,7 @@
   
 
 - I am interested in Web Development  
-  
 
--   
-  
-
--   
-  
 
 <br/>  
 
@@ -58,10 +52,7 @@
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
+
 
 </td></tr></table>  
 
@@ -93,19 +84,3 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
