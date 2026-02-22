@@ -118,5 +118,5 @@ I maintain a **live, production-ready portfolio** showcasing:
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PuneetKathpalia&label=Profile%20Views&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=PuneetKathpalia&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
