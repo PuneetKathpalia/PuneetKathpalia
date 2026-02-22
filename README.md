@@ -1,21 +1,106 @@
-# 💫 About Me:
-<br>Real-Time Web Apps and Open Source Frontend Projects<br><br>Advanced React Patterns, Next.js, Kafka, Docker, and DevOps<br><br>JavaScript (ES6+), React.js, Node.js, MongoDB, MERN Stack, Real-Time Applications, Socket.IO, GSAP Animations, REST APIs, UI/UX Design, Responsive Web Development, Problem Solving, Frontend Performance Optimization.<br><br>https://pk-portfolio-six.vercel.app/<br><br>https://drive.google.com/file/d/1XqWvGfzIgV-oRkWdJ3aD224AKzanCWOO/view?usp=sharing<br><br>I think I’m funny but my code has better logic than my jokes.😄
+<h1 align="center">Hi 👋, I'm Puneet Kathpalia</h1>
+<h3 align="center">Frontend Engineer • Real-Time Web Apps • Open Source</h3>
 
+<p align="center">
+  <img src="./ChatGPT Image Feb 22, 2026, 02_43_34 PM.png" width="220" alt="Puneet Kathpalia Avatar"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/puneetkathpalia/ https://leetcode.com/u/puneetkathpalia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneetkathpalia99@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=puneetkathpalia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=puneetkathpalia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkathpalia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=puneetkathpalia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/puneetkathpalia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:puneetkathpalia99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://pk-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=puneetkathpalia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I’m a **Frontend Engineer** passionate about building **real-time, scalable, and high-performance web applications**.
+
+- ⚡ Advanced **React & Next.js** patterns  
+- 🔌 Real-time apps using **Socket.IO & Kafka**  
+- 🎯 Strong focus on **UI/UX, animations, and performance optimization**  
+- 🛠️ MERN stack + modern DevOps practices  
+- 😄 I think I’m funny, but my code has better logic than my jokes
+
+📄 **Resume:**  
+👉 [View Resume](https://drive.google.com/file/d/1XqWvGfzIgV-oRkWdJ3aD224AKzanCWOO/view)
+
+---
+
+## 🧩 Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+### ⚙️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+
+### 🧠 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneetkathpalia&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneetkathpalia&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkathpalia&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=puneetkathpalia&theme=radical&no-frame=true"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to **Frontend / Full-Stack roles**
+- 🚀 Love building **real-time systems**
+- 🧠 Happy to talk **architecture, UI, performance**
+
+📫 **Email:** `puneetkathpalia99@gmail.com`
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=puneetkathpalia&icon=0&color=12"/>
+</p>
+
+<p align="center">
+  ⭐ Star a repo if you like my work — it fuels my commits ☕
+</p>
