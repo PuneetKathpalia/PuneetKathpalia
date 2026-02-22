@@ -66,7 +66,7 @@ What I care about:
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneetKathpalia&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PuneetKathpalia&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ What I care about:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuneetKathpalia&bg_color=00000000&color=cccccc&line=888888&point=ffffff&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PuneetKathpalia&theme=github_dark" />
 </p>
 
 ---
