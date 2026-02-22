@@ -1,100 +1,57 @@
 <p align="center">
-  <img src="assets/avatar.png" width="180" />
+  <img src="assets/avatar.png" width="160" />
 </p>
 
-<h1 align="center">Puneet Kathpalia 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Puneet+Kathpalia;Frontend+Engineer;Real-Time+Web+Apps;Design+Focused+Developer" />
+</h1>
 
 <p align="center">
-  🚀 Frontend Engineer • ⚡ Real-Time Web Apps • 🌍 Open Source
+  I build <b>real-time, high-performance web experiences</b><br/>
+  with clean UI, smooth motion, and scalable architecture.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/puneetkathpalia">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:puneetkathpalia99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://pk-portfolio-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://YOUR-VERCEL-URL.vercel.app">
+    <img src="https://img.shields.io/badge/✨_Live_Profile_(shadcn_+_animations)-000000?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-💻 Frontend Engineer building **scalable, real-time web applications**  
-⚡ Obsessed with **performance, UI polish & clean logic**  
-🔌 Love working with **event-driven & real-time systems**  
-
-> I think I’m funny, but my code has better logic than my jokes 😄
-
-📄 **Resume:**  
-👉 https://drive.google.com/file/d/1XqWvGfzIgV-oRkWdJ3aD224AKzanCWOO/view
-
----
-
-## 🚀 Tech Stack (The Real Stuff)
-
-### 🧑‍💻 Languages
-🟨 JavaScript | 🔷 TypeScript | ☕ Java | 🔵 C++ | ⚪ C
-
-### 🎨 Frontend
-⚛️ React.js | ▲ Next.js | 📱 React Native | 🅰️ Angular  
-🎨 Tailwind CSS | 🅱️ Bootstrap | 🌀 GSAP
-
-### 🧠 Backend & Databases
-🟢 Node.js | 🚂 Express.js  
-🍃 MongoDB | 🐬 MySQL  
-
-### 🔌 Real-Time & DevOps
-🔗 Socket.IO | 📊 Kafka  
-🐳 Docker | ☁️ AWS | 🤖 Jenkins  
-🔥 Firebase | 🌐 Netlify | 🚀 Render  
-
-### 🛠 Tools & Design
-🔧 Git | 🐙 GitHub  
-🎨 Figma | 🖌 Canva  
-
----
-
-## 📈 GitHub Stats & Activity
+## 🧩 Tech I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puneetkathpalia&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneetkathpalia&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetkathpalia&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,node,mongodb,docker,aws,git" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (YES, THIS IS FIRE)
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puneetkathpalia/puneetkathpalia/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PuneetKathpalia&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuneetKathpalia&bg_color=00000000&color=ffffff&line=888888&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
-
-💼 Open to **Frontend / Full-Stack roles**  
-🚀 Interested in **real-time systems & performance**  
-🧠 Always learning. Always building.
-
-📫 **Email:** puneetkathpalia99@gmail.com
+## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=puneetkathpalia&color=12"/>
+  <img src="https://raw.githubusercontent.com/PuneetKathpalia/PuneetKathpalia/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  📧 <a href="mailto:puneetkathpalia99@gmail.com">puneetkathpalia99@gmail.com</a> •
+  💼 <a href="https://linkedin.com/in/puneetkathpalia">LinkedIn</a>
 </p>
 
 <p align="center">
-  ⭐ Star a repo if you like my work — it actually motivates me
+  <sub>⭐ If this feels different — it’s intentional</sub>
 </p>
