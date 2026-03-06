@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-I’m a **Frontend Engineer** focused on building **high-performance, real-time web applications**.
+I am a Full Stack Developer who enjoys building scalable and high performance web applications. I work across both frontend and backend using technologies like React, Node.js, Express, and databases such as MongoDB and MySQL. I like creating real time and user friendly applications that solve real problems and deliver smooth user experiences.
 
 What I care about:
 - ⚡ Fast, responsive, and accessible UIs  
